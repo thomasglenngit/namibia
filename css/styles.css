@@ -1,0 +1,10 @@
+h1, h2 {
+  text-align: center;
+  color: orangered;
+}
+
+body {
+  font-weight: 600;
+  font-family: sans-serif;
+  background-color: lightblue;
+}
